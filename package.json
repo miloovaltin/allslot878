@@ -1,0 +1,16 @@
+{
+"name": "allslot878",
+"theme": "allslot878",
+"version": "10.9.1",
+"description": "allslot878 สมัครสมาชิกเว็บไซต์พนันเว็บตรง คนเล่นเยอะ แจกเครดิตฟรี",
+"keywords": [
+"allslot878",
+"allslot878 เครดิตฟรี",
+"allslot878 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/allslot878",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
